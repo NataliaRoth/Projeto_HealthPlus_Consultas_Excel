@@ -35,11 +35,11 @@ aplicando tratamentos para melhorar a qualidade dos dados.
 
 ## Análises realizadas
 
-- Convênios
+- Convenios
 - Especialidades
 - Pacientes
-- Dados ausentes
-- Datas ausentes
+- Dados faltando
+- Datas faltando
 - Qualidade dos dados
 
 ## Principais resultados
