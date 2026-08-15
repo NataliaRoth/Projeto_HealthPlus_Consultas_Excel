@@ -14,15 +14,15 @@ aplicando tratamentos para melhorar a qualidade dos dados.
 ##  Processo
 
 **Dados brutos**
-↓
+->
 **Análise exploratória**
-↓
+->
 **Identificação de inconsistências**
-↓
+->
 **Tratamento dos dados**
-↓
+->
 **Base tratada**
-↓
+->
 **Análise e indicadores**
 
 ## Ferramentas
