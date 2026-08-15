@@ -1,4 +1,4 @@
-# Projeto_HealthPlus_Consultas_Médicas_Excel
+# Projeto HealthPlus - Análise e Tratamento de Dados com Excel
 Projeto de análise de consultas médicas desenvolvido no Excel, com tratamento, padronização, criação de KPIs e análise dos dados.
 
 # Análise de Consultas Médicas - HealthPlus 
