@@ -31,11 +31,11 @@ aplicando tratamentos para melhorar a qualidade dos dados.
 - Fórmulas
 - Tabelas Dinâmicas
 - Tratamento e padronização de dados
-- Indicadores
+- Indicadores 
 
 ## Análises realizadas
 
-- Convenios
+- Convênios
 - Especialidades
 - Pacientes
 - Dados faltando
