@@ -68,7 +68,7 @@ Este projeto representa uma etapa importante do meu aprendizado e faz parte da c
 
 Registro das etapas de tratamento realizadas na base, com identificação das inconsistências encontradas e das ações aplicadas para padronização e organização dos dados.
 
-# Visualização das KPIs
+# Visualização das Análises e Indicadores
 
 ## Faturamento por Especialidade e Convênio
 
